@@ -1,4 +1,5 @@
 ### Arithmetic Arranger Assignment
+[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-project-urlshortener)](https://repl.it/@BryanW1/arithmetic-formatter?view=1)
 
 Students in primary school often arrange arithmetic problems vertically to make them easier to solve. For example, "235 + 52" becomes:
 ```
